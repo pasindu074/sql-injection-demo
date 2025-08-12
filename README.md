@@ -1,4 +1,7 @@
-Folder Structure
+# SQL Injection Demo
+A simple PHP + MySQL project to demonstrate how SQL Injection works and how to prevent it.
+
+##Folder Structure
 
 │
 ├── vulnerable.php       # Vulnerable login/search
